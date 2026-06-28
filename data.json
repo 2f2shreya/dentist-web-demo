@@ -1,0 +1,21 @@
+{
+  "appointments": [],
+  "contacts": [],
+  "patients": [],
+  "admin_users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password_hash": "a76d0dc02f86149e5864eca918786aee44613d4c7468e74b001ddfab44ca280a",
+      "display_name": "Dr. Admin",
+      "role": "admin",
+      "created_at": "2026-06-27T20:51:05.759Z"
+    }
+  ],
+  "sessions": [],
+  "counters": {
+    "appointments": 0,
+    "contacts": 0,
+    "patients": 0
+  }
+}
